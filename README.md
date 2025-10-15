@@ -65,6 +65,8 @@ Atualmente, estou cursando pós-graduação em Inteligência Artificial. Sou apa
 </p>
 <br/>
 <br/>
+<br/>
+<br/>
 <hr/>
 
 ### 📊 Estatísticas
