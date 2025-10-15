@@ -39,14 +39,7 @@ Atualmente, estou cursando pós-graduação em Inteligência Artificial. Sou apa
   <img align="left" alt="Eclipse" title="Eclipse" width="55px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="left" alt="Jenkins" title="Jenkins" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
   <img align="left" alt="Swagger" title="Swagger" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-</p>
-
-<!-- Angular e React reposicionados -->
-<br/>
-<br/>
-
-<p>
-<img 
+  <img 
     align="left" 
     alt="Git" 
     title="Git"
@@ -63,6 +56,10 @@ Atualmente, estou cursando pós-graduação em Inteligência Artificial. Sou apa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 </p>
+
+<!-- Angular e React reposicionados -->
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
